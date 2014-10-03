@@ -37,11 +37,14 @@ application for the Graphite Real-time graphing engine.
 
 ## Ganglia
 
+## Sensu
+
+* [Uchiwa](https://github.com/sensu/uchiwa) - A simple dashboard for the Sensu monitoring framework.
 
 ## Others
 
 * [Hystrix Dashboard](https://github.com/Netflix/Hystrix/tree/master/hystrix-dashboard) - The [Hystrix](https://github.com/Netflix/Hystrix) Dashboard enables realtime monitoring of Hystrix metrics.
-
+* [Canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate/consolidate information and events.
 
 # Contribution Guidelines
 
