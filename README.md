@@ -33,6 +33,7 @@ application for the Graphite Real-time graphing engine.
 * [Orion](https://github.com/gree/Orion) - Provides an easy way to create and manage custom dashboards of your Graphite data.
 * [Tattle](https://github.com/wayfair/Graphite-Tattle) - A self service alerting and dashboard frontend for graphite and ganglia.
 * [Tasseo](https://github.com/obfuscurity/tasseo) - Live dashboard for Graphite.
+* [Tessera](http://urbanairship.github.io/tessera/) - A web application for constructing elegant, interactive presentations of data from Graphite.
 
 ## Ganglia
 
