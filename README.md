@@ -30,6 +30,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Graphiti](https://github.com/paperlesspost/graphiti) - An alternate JavaScript and Ruby front-end and graph storage.
 * [Graphitus](https://github.com/ezbz/graphitus) - A simple graphite based dashboard system
 application for the Graphite Real-time graphing engine.
+* [Orion](https://github.com/gree/Orion) - Provides an easy way to create and manage custom dashboards of your Graphite data.
 * [Tattle](https://github.com/wayfair/Graphite-Tattle) - A self service alerting and dashboard frontend for graphite and ganglia.
 * [Tasseo](https://github.com/obfuscurity/tasseo) - Live dashboard for Graphite.
 
