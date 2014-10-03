@@ -13,6 +13,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 ## General
 
 * [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
+* [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
 
 ## Graphite
 
