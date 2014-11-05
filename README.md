@@ -6,7 +6,7 @@ A curated list of amazingly awesome dashboards/visualization resources.
   * [General](#general)
   * [Graphite](#graphite)
   * [Ganglia](#ganglia)
-  * [InfluDB](#influxdb)
+  * [InfluxDB](#influxdb)
   * [Others](#others)
 
 See [Contribution Guidelines](#contribution-guidelines)
