@@ -38,7 +38,7 @@ application for the Graphite Real-time graphing engine.
 
 ## Ganglia
 
-## InfluDB
+## InfluxDB
 
 * [Influga](https://github.com/hakobera/influga) - A InfluxDB Dashboard and Graph Editor
 
