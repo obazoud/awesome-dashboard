@@ -6,6 +6,7 @@ A curated list of amazingly awesome dashboards/visualization resources.
   * [General](#general)
   * [Graphite](#graphite)
   * [Ganglia](#ganglia)
+  * [InfluDB](#influxdb)
   * [Others](#others)
 
 See [Contribution Guidelines](#contribution-guidelines)
@@ -36,6 +37,10 @@ application for the Graphite Real-time graphing engine.
 * [Tessera](http://urbanairship.github.io/tessera/) - A web application for constructing elegant, interactive presentations of data from Graphite.
 
 ## Ganglia
+
+## InfluDB
+
+* [Influga](https://github.com/hakobera/influga) - A InfluxDB Dashboard and Graph Editor
 
 ## Sensu
 
