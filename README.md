@@ -14,6 +14,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 ## General
 
 * [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
+* [Mozaik](http://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
 * [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
 
 ## Graphite
