@@ -14,10 +14,11 @@ See [Contribution Guidelines](#contribution-guidelines)
 ## General
 
 * [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
-* [Pydashie](https://github.com/evolvedlight/pydashie) - Python port of dashing
-* [Mozaik](http://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
-* [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
 * [Freeboard](https://github.com/Freeboard/freeboard) - An open source real-time dashboard builder for IOT and other web mashups.
+* [Grafana](http://grafana.org/) - A dasboard editor for visualizing time series data
+* [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
+* [Mozaik](http://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
+* [Pydashie](https://github.com/evolvedlight/pydashie) - Python port of dashing
 
 ## Graphite
 
@@ -27,7 +28,6 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Facette](https://facette.io/) - Time series data visualization and graphing software
 * [GDash](https://github.com/ripienaar/gdash) - A dashboard for Graphite.
 * [Giraffe](https://github.com/kenhub/giraffe) - A Graphite Dashboard with a long neck.
-* [Grafana](http://grafana.org/) - A Graphite Dashboard and Graph Editor
 * [Graphene](http://jondot.github.io/graphene/) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
 * [Graph-explorer](http://vimeo.github.io/graph-explorer/) - A graphite dashboard that's different, from [Vimeo](https://github.com/vimeo)
 * [Graphite observer](https://github.com/huoxy/graphite-observer) - A realtime monitor dashboard for graphite.
