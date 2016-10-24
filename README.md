@@ -55,7 +55,7 @@ application for the Graphite Real-time graphing engine.
 * [Countly](https://github.com/countly/countly-server) - An open source, mobile & web analytics dashboard
 * [Hawtio](http://hawt.io) - A  modular web console for managing your Java stuff.
 * [Hystrix Dashboard](https://github.com/Netflix/Hystrix/tree/master/hystrix-dashboard) - The [Hystrix](https://github.com/Netflix/Hystrix) Dashboard enables realtime monitoring of Hystrix metrics.
-
+* [ng2 Admin](https://github.com/akveo/ng2-admin) - Solid Angular2 admin dashboard, based on [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter)
 # Contribution Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
