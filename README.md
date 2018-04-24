@@ -13,7 +13,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 
 ## General
 
-* [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
+* [Smashing](https://github.com/Smashing/smashing) - Spriritual successor to [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
 * [Freeboard](https://github.com/Freeboard/freeboard) - An open source real-time dashboard builder for IOT and other web mashups.
 * [Grafana](http://grafana.org/) - A dashboard editor for visualizing time series data.
 * [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
