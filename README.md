@@ -57,7 +57,7 @@ application for the Graphite Real-time graphing engine.
 * [Canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate/consolidate information and events.
 * [Countly](https://github.com/countly/countly-server) - An open source, mobile & web analytics dashboard.
 * [Hawtio](http://hawt.io) - A  modular web console for managing your Java stuff.
-* [Hystrix Dashboard](https://github.com/Netflix/Hystrix/tree/master/hystrix-dashboard) - The [Hystrix](https://github.com/Netflix/Hystrix) Dashboard enables realtime monitoring of Hystrix metrics.
+* [Hystrix Dashboard](https://github.com/Netflix-Skunkworks/hystrix-dashboard) - The [Hystrix](https://github.com/Netflix/Hystrix) Dashboard enables realtime monitoring of Hystrix metrics.
 
 # Contribution Guidelines
 
