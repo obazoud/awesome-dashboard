@@ -22,6 +22,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Pydashie](https://github.com/evolvedlight/pydashie) - Python port of dashing.
 * [ez-Dashing](https://github.com/ylacaute/ez-Dashing) - A free dashboard for agile development team, based on React/redux, ready to use with Docker.
 * [Metricio](https://metricio.co/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
+* [Redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## Graphite
 
