@@ -42,9 +42,9 @@ application for the Graphite Real-time graphing engine.
 * [Tasseo](https://github.com/obfuscurity/tasseo) - Live dashboard for Graphite.
 * [Tessera](http://urbanairship.github.io/tessera/) - A web application for constructing elegant, interactive presentations of data from Graphite.
 
-## Ganglia
+## Ganglia
 
-## InfluxDB
+## InfluxDB
 
 * [Influga](https://github.com/hakobera/influga) - A InfluxDB Dashboard and Graph Editor.
 
