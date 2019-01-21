@@ -22,6 +22,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [ez-Dashing](https://github.com/ylacaute/ez-Dashing) - A free dashboard for agile development team, based on React/redux, ready to use with Docker.
 * [Metricio](https://metricio.co/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
 * [Apache Superset](https://github.com/apache/incubator-superset) - a modern, enterprise-ready business intelligence web application (previously named Caravel and Panoramix).
+* [awe](https://github.com/dankilman/awe) - A framework for creating dynamic web based reports and dashboards.
 
 ## Graphite
 
