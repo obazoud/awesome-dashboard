@@ -17,12 +17,14 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Freeboard](https://github.com/Freeboard/freeboard) - An open source real-time dashboard builder for IOT and other web mashups.
 * [Grafana](http://grafana.org/) - A dashboard editor for visualizing time series data.
 * [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
-* [Monique Dashboards](https://github.com/monique-dashboards/monique) - A library for creating custom dashboards that replaces the metric concept with a table (and auto-parses JSON, ASCII tables and more)
 * [Mozaik](http://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
 * [Pydashie](https://github.com/evolvedlight/pydashie) - Python port of dashing.
 * [ez-Dashing](https://github.com/ylacaute/ez-Dashing) - A free dashboard for agile development team, based on React/redux, ready to use with Docker.
 * [Metricio](https://metricio.co/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+* [Turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly know as Swiv and Pivot.
+* [Apache Superset](https://github.com/apache/incubator-superset) - a modern, enterprise-ready business intelligence web application (previously named Caravel and Panoramix).
+* [awe](https://github.com/dankilman/awe) - A framework for creating dynamic web based reports and dashboards.
 
 ## Graphite
 
@@ -43,9 +45,9 @@ application for the Graphite Real-time graphing engine.
 * [Tasseo](https://github.com/obfuscurity/tasseo) - Live dashboard for Graphite.
 * [Tessera](http://urbanairship.github.io/tessera/) - A web application for constructing elegant, interactive presentations of data from Graphite.
 
-## Ganglia
+## Ganglia
 
-## InfluxDB
+## InfluxDB
 
 * [Influga](https://github.com/hakobera/influga) - A InfluxDB Dashboard and Graph Editor.
 
