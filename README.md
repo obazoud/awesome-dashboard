@@ -11,6 +11,15 @@ A curated list of amazingly awesome dashboards/visualization resources.
 
 See [Contribution Guidelines](#contribution-guidelines)
 
+## Sponsors
+
+<p align="center">
+  <a href="https://nuntly.com">
+    <img src="https://nuntly.com/images/og-image-v2.png" alt="Nuntly">
+  <br>Nuntly is Developer-First Email Platform
+  </a>
+</p>
+
 ## General
 
 * [Smashing](https://github.com/Smashing/smashing) - Spriritual successor to [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
