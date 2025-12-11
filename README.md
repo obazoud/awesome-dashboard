@@ -36,6 +36,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [awe](https://github.com/dankilman/awe) - A framework for creating dynamic web based reports and dashboards.
 * [frolic](https://github.com/FrolicOrg/Frolic) - Backend service to build customer facing dashboards 10x faster. Written in Rust.
 * [AppSmith](https://github.com/appsmithorg/appsmith)) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+* [StyleBI](https://github.com/inetsoft-technology/stylebi) - App for dashboards and analytics with data pipeline for transformation and mashup.
 
 ## Graphite
 
