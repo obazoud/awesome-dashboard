@@ -40,6 +40,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [AppSmith](https://github.com/appsmithorg/appsmith)) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 * [StyleBI](https://github.com/inetsoft-technology/stylebi) - App for dashboards and analytics with data pipeline for transformation and mashup.
 * [Shaper](https://taleshape.com/shaper/docs/) - Open-Source SQL-First, Data Dashboards and Embedded Analytics. Powered By DuckDB.
+* [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit that generates a single-page DNA Terminal dashboard with green-on-black terminal aesthetic.
 
 ## Graphite
 
