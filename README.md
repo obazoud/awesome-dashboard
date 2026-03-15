@@ -28,6 +28,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
 * [Mozaik](http://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
 * [Pydashie](https://github.com/evolvedlight/pydashie) - Python port of dashing.
+* [querybear.com](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more.
 * [ez-Dashing](https://github.com/ylacaute/ez-Dashing) - A free dashboard for agile development team, based on React/redux, ready to use with Docker.
 * [Metricio](https://metricio.github.io/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
