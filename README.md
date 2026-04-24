@@ -71,6 +71,7 @@ application for the Graphite Real-time graphing engine.
 
 ## Others
 
+* [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with real-time observability and CNCF project integrations across edge and cloud clusters.
 * [Canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate/consolidate information and events.
 * [Countly](https://github.com/countly/countly-server) - An open source, mobile & web analytics dashboard.
 * [Hawtio](http://hawt.io) - A  modular web console for managing your Java stuff.
