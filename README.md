@@ -24,6 +24,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 
 * [Smashing](https://github.com/Smashing/smashing) - Spriritual successor to [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
 * [Freeboard](https://github.com/Freeboard/freeboard) - An open source real-time dashboard builder for IOT and other web mashups.
+* [GoatCounter Dashboard](https://github.com/abhishekhsingh/goatcounter-dashboard) - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step.
 * [Grafana](http://grafana.org/) - A dashboard editor for visualizing time series data.
 * [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
 * [Mozaik](http://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
