@@ -93,3 +93,4 @@ Please ensure your pull request adheres to the following guidelines:
 * New categories, or improvements to the existing categorisation are welcome.
 
 Thank you for your suggestions!
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
