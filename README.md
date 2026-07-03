@@ -41,6 +41,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [StyleBI](https://github.com/inetsoft-technology/stylebi) - App for dashboards and analytics with data pipeline for transformation and mashup.
 * [Shaper](https://taleshape.com/shaper/docs/) - Open-Source SQL-First, Data Dashboards and Embedded Analytics. Powered By DuckDB.
 * [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit that generates a single-page DNA Terminal dashboard with green-on-black terminal aesthetic.
+* [Quota Dashboard](https://github.com/ryan-knowone/quota-dashboard) - Local-only, privacy-first dashboard for AI subscription quota (Claude Code Max, Kimi, Z.ai). Runs entirely in the browser as a static site; tokens never leave the user's machine.
 
 ## Graphite
 
