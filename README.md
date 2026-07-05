@@ -33,6 +33,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [ez-Dashing](https://github.com/ylacaute/ez-Dashing) - A free dashboard for agile development team, based on React/redux, ready to use with Docker.
 * [Metricio](https://metricio.github.io/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+* [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) - Free monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts.
 * [Turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly know as Swiv and Pivot.
 * [Apache Superset](https://github.com/apache/incubator-superset) - a modern, enterprise-ready business intelligence web application (previously named Caravel and Panoramix).
 * [awe](https://github.com/dankilman/awe) - A framework for creating dynamic web based reports and dashboards.
