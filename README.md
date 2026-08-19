@@ -44,6 +44,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Shaper](https://taleshape.com/shaper/docs/) - Open-Source SQL-First, Data Dashboards and Embedded Analytics. Powered By DuckDB.
 * [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit that generates a single-page DNA Terminal dashboard with green-on-black terminal aesthetic.
 * [Xenon](https://github.com/marcimastro98/Xenon) - Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.
+* [DAC](https://github.com/bruin-data/dac) - Dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer.
 
 ## Graphite
 
