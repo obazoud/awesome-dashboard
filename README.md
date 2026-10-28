@@ -45,6 +45,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit that generates a single-page DNA Terminal dashboard with green-on-black terminal aesthetic.
 * [Xenon](https://github.com/marcimastro98/Xenon) - Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.
 * [Nexus Admin Dashboard](https://github.com/Shashank-VK/nexus-dashboard-template) - Modern Next.js 16 admin dashboard template with dynamic metric widgets, real-time analytics chart, live order streams, system health monitor, and dark glassmorphism UI.
+* [HomeLab Monitor](https://github.com/SikamikanikoBG/homelab-monitor) - One page for your whole home lab & AI rig — GPU (any vendor), tokens/sec, power cost by the hour, uptime, training runs, containers, disks. No agents, no separate metrics stack, no cloud.
 
 ## Graphite
 
