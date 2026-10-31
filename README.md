@@ -46,6 +46,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Xenon](https://github.com/marcimastro98/Xenon) - Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.
 * [Nexus Admin Dashboard](https://github.com/Shashank-VK/nexus-dashboard-template) - Modern Next.js 16 admin dashboard template with dynamic metric widgets, real-time analytics chart, live order streams, system health monitor, and dark glassmorphism UI.
 * [HomeLab Monitor](https://github.com/SikamikanikoBG/homelab-monitor) - One page for your whole home lab & AI rig — GPU (any vendor), tokens/sec, power cost by the hour, uptime, training runs, containers, disks. No agents, no separate metrics stack, no cloud.
+* [fooboard](https://github.com/karmaniverous/fooboard) - Deployment status board for GitHub Actions and AWS Amplify: repos as rows, stages as columns, each cell coloured by its latest deployment. Runs entirely in the browser with no backend or sign-up; [live demo](https://fooboard.dev/demo).
 
 ## Graphite
 
