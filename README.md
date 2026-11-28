@@ -47,6 +47,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Nexus Admin Dashboard](https://github.com/Shashank-VK/nexus-dashboard-template) - Modern Next.js 16 admin dashboard template with dynamic metric widgets, real-time analytics chart, live order streams, system health monitor, and dark glassmorphism UI.
 * [HomeLab Monitor](https://github.com/SikamikanikoBG/homelab-monitor) - One page for your whole home lab & AI rig — GPU (any vendor), tokens/sec, power cost by the hour, uptime, training runs, containers, disks. No agents, no separate metrics stack, no cloud.
 * [GitVitals](https://github.com/turpentieqe/gitvitals) - Zero-dependency CLI that turns any Git repo into a self-contained, offline HTML dashboard with a health score, bus factor, code hotspots and activity charts.
+* [Klar](https://github.com/klar-run/klar) - React chart components drawn in plain SVG and 12 example dashboards, in light and dark, installable with npm or the shadcn CLI.
 
 ## Graphite
 
